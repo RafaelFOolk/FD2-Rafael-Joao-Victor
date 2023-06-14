@@ -1,1 +1,0 @@
-void funcao_LimpaTela();
